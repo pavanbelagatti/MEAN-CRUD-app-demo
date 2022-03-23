@@ -12,7 +12,7 @@ import { FormGroup, FormBuilder, Validators } from "@angular/forms";
 export class EmployeeCreateComponent implements OnInit {  
   submitted = false;
   employeeForm: FormGroup;
-  EmployeeProfile:any = ['Finance', 'BDM', 'HR', 'Sales', 'Admin']
+  EmployeeProfile:any = ['Developer', 'Sales Rep', 'DevOps', 'SRE', 'Testing']
   
   constructor(
     public fb: FormBuilder,
