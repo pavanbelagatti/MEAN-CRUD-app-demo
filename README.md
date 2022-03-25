@@ -2,9 +2,12 @@
 
 ## How to playaround?
 
+### Clone the repository:
+Git clone https://github.com/pavanbelagatti/MEAN-CRUD-app-demo.git on your terminal
+
 ### Backend part:
 
-After cloning the repository, do 'npm start' from the backend folder
+After cloning the repository, run 'npm start' from the backend folder
 
 You should see the message on your terminal as below,
 
