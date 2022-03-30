@@ -1,5 +1,15 @@
 # MEAN-CRUD-app-demo
 
+## Pre-Requisites
+Prerequisites
+In order to run this app, you need Node.js, which is javascript runtime installed on our machine. So download and install the latest Node.js available from this [link](https://nodejs.org/en/).
+
+we also need to have MongoDB installed on the machine. You can download and install MongoDB community edition free from this [link](https://www.mongodb.com/try/download/community).
+
+OR
+
+if you dont want to install MongoDB on your machine then you can use cloud hosted MongoDB service from this link. Ypu have to create account and use free tier to host your data.
+
 ## How to playaround?
 
 ### Clone the repository:
