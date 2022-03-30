@@ -8,7 +8,12 @@ we also need to have MongoDB installed on the machine. You can download and inst
 
 OR
 
-if you dont want to install MongoDB on your machine then you can use cloud hosted MongoDB service from this link. Ypu have to create account and use free tier to host your data.
+if you dont want to install MongoDB on your machine then you can use cloud hosted MongoDB service from this [link](https://cloud.mongodb.com/user#/atlas/login). You have to create account and use free tier to host your data.
+
+In this app, we will connect our application to our local MongoDB database (localhost 27017 port) using Mongoose package, with connect() function referencing to mongoose, with MongoDB Database URI passed as argument to the function.
+
+*localhost 27017 port is the default port the MongoDB database server listens to the commands*
+
 
 ## How to playaround?
 
