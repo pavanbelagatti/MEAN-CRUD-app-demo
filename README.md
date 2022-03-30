@@ -13,23 +13,29 @@ if you dont want to install MongoDB on your machine then you can use cloud hoste
 ## How to playaround?
 
 ### Clone the repository:
-Git clone https://github.com/pavanbelagatti/MEAN-CRUD-app-demo.git on your terminal
+Clone the repository by using the command `git clone https://github.com/pavanbelagatti/MEAN-CRUD-app-demo.git`
+
+### Install the dependencies
+Use the command `npm install` on your terminal to install the required dependencies.
 
 ### Backend part:
+Go to the backend folder with `cd backend`command on your terminal
 
-After cloning the repository, run 'npm start' from the backend folder
+Run `npm start` from the backend folder
 
 You should see the message on your terminal as below,
 
-Connected to port 3000
+> Connected to port 3000
 
-Database sucessfully connected:) 
+> Database sucessfully connected:) 
 
 ### Frontend part:
-
-Open a new terminal from your computer and go to the applicaion folder and then go to the frontend folder and run 'ng serve' for a dev server. 
+Open a new terminal from and go to the frontend folder with the command `cd frontend` and run `ng serve` for a dev server. 
 Navigate to http://localhost:4200/. 
 
-You might get an error, so do 'npm install' to add all the dependencies required and then start again 'ng serve'
+### Install the dependencies
+Use the command `npm install` on your terminal to install the required dependencies and packages.
+
+Start the angular frontend with the command `ng serve` from your frontend folder.
 
 The app will automatically reload if you change any of the source files.
